@@ -1,44 +1,83 @@
+<div align="center">
+
 # Yohannes Abera
 
-Software Developer · Creative Thinker · Problem Solver
+**Software Developer | Problem Solver | Clean Code Advocate**
 
-## About
-I am a software developer focused on building clean, scalable, and user centered applications. I value simplicity in design, clarity in code, and solutions that are easy to maintain and extend.
+</div>
 
-I enjoy working across the stack and combining solid engineering with a modern, minimal visual approach.
+---
 
-## What I Do
-- Build web applications with clean and maintainable architectures  
-- Design and implement RESTful APIs  
-- Work with relational and non relational databases  
-- Create minimal and modern user interfaces  
-- Continuously improve code quality and best practices  
+<div align="center">
 
-## Tech Stack
-**Languages**  
-JavaScript, TypeScript, HTML, CSS  
+### Building simple, scalable, and well-designed software
 
-**Backend**  
-Node.js, Express, REST APIs  
+</div>
 
-**Databases**  
-MongoDB, PostgreSQL  
+---
 
-**Tools**  
-Git, GitHub, VS Code, Postman  
+## About Me
 
-## Principles
-- Simplicity over complexity  
-- Readable code over clever code  
-- Design and engineering should work together  
-- Small improvements compound over time  
+I am a software developer who focuses on writing clean, maintainable code and building systems that scale gracefully. I care deeply about structure, readability, and thoughtful design decisions, both in engineering and in user experience.
+
+---
+
+## Core Skills
+
+<table>
+<tr>
+<td width="50%">
+
+### Development
+- JavaScript, TypeScript  
+- Node.js, Express  
+- RESTful API Design  
+- System Architecture  
+
+</td>
+<td width="50%">
+
+### Databases & Tools
+- MongoDB, PostgreSQL  
+- Git, GitHub  
+- Postman, VS Code  
+- API Testing  
+
+</td>
+</tr>
+</table>
+
+---
+
+## Design & Engineering Principles
+
+- Clean code over complex solutions  
+- Minimal interfaces with clear intent  
+- Performance, scalability, and readability  
+- Consistent structure and naming  
+
+---
 
 ## Current Focus
-- Backend architecture and performance  
-- Clean and predictable API design  
-- Scalable system design fundamentals  
 
-## Contact
-GitHub: https://github.com/yohannesabder  
+- Backend scalability and performance  
+- API design patterns and best practices  
+- Production ready architectures  
 
-Always building. Always learning.
+---
+
+## Connect
+
+<div align="left">
+
+- GitHub: **https://github.com/joabera333**
+
+</div>
+
+---
+
+<div align="center">
+
+_Design with intent. Build with clarity._
+
+</div>
