@@ -1,83 +1,103 @@
 <div align="center">
 
-# Yohannes Abera
+<h1>Yohannes Abera</h1>
 
-**Software Developer | Problem Solver | Clean Code Advocate**
+<p>
+  <strong>Software Developer · Backend Engineer · Clean Architecture Advocate</strong>
+</p>
+
+<p>
+  Designing scalable systems.<br/>
+  Writing readable, production-ready code.
+</p>
+
+<p>
+  <a href="https://github.com/yohannesabder">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-<div align="center">
+## About
 
-### Building simple, scalable, and well-designed software
+I am a software developer focused on building **clean, scalable, and maintainable systems**.  
+My work emphasizes backend architecture, API design, and thoughtful engineering decisions.
 
-</div>
-
----
-
-## About Me
-
-I am a software developer who focuses on writing clean, maintainable code and building systems that scale gracefully. I care deeply about structure, readability, and thoughtful design decisions, both in engineering and in user experience.
+I believe good software feels simple to use and effortless to maintain.
 
 ---
 
-## Core Skills
+## Expertise
 
-<table>
-<tr>
-<td width="50%">
-
-### Development
-- JavaScript, TypeScript  
+### Backend & Architecture
 - Node.js, Express  
-- RESTful API Design  
-- System Architecture  
+- RESTful API design  
+- Authentication and authorization  
+- Scalable application structure  
 
-</td>
-<td width="50%">
+### Databases
+- MongoDB  
+- PostgreSQL  
+- Data modeling and optimization  
 
-### Databases & Tools
-- MongoDB, PostgreSQL  
-- Git, GitHub  
-- Postman, VS Code  
-- API Testing  
-
-</td>
-</tr>
-</table>
+### Frontend Fundamentals
+- HTML, CSS  
+- Modern JavaScript  
+- UI consistency and usability  
 
 ---
 
-## Design & Engineering Principles
+## Technology Stack
 
-- Clean code over complex solutions  
-- Minimal interfaces with clear intent  
-- Performance, scalability, and readability  
-- Consistent structure and naming  
+<p>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,postgres,git,github,vscode" />
+</p>
+
+---
+
+## Engineering Principles
+
+- Clarity over cleverness  
+- Simple solutions scale better  
+- Code is read more than it is written  
+- Design and engineering must align  
 
 ---
 
 ## Current Focus
 
-- Backend scalability and performance  
-- API design patterns and best practices  
-- Production ready architectures  
+- Backend performance and scalability  
+- API reliability and security  
+- Clean code patterns and best practices  
 
 ---
 
-## Connect
+## GitHub Activity
 
-<div align="left">
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=joabera333&show_icons=true&hide_border=true&theme=transparent" />
+</p>
 
-- GitHub: **https://github.com/joabera333**
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joabera333&hide_border=true&theme=transparent" />
+</p>
 
-</div>
+---
+
+## Contact
+
+- GitHub: https://github.com/yohannesabera
 
 ---
 
 <div align="center">
 
-_Design with intent. Build with clarity._
+<sub>Build deliberately. Improve continuously.</sub>
 
 </div>
