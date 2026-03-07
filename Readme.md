@@ -6,11 +6,11 @@
 
 <br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jo-abera&label=Profile%20Views&color=0e75b6&style=plastic" height="25"/>
-  <img src="https://img.shields.io/badge/Role-Backend%20Developer-blue?style=plastic" height="25"/>
-  <img src="https://img.shields.io/badge/Specialization-Backend%20Engineering-green?style=plastic" height="25"/>
-  <img src="https://img.shields.io/badge/Mindset-Continuous%20Learner-yellowgreen?style=plastic" height="25"/>
-  <img src="https://img.shields.io/badge/Focus-Scalable%20Backend%20Systems-orange?style=plastic" height="25"/>
+  <img src="https://komarev.com/ghpvc/?username=jo-abera&label=Profile%20Views&color=0e75b6&style=flat" height="20"/>
+  <img src="https://img.shields.io/badge/Backend%20Developer-blue?style=flat" height="20"/>
+  <img src="https://img.shields.io/badge/Backend%20Engineering-green?style=flat" height="20"/>
+  <img src="https://img.shields.io/badge/Continuous%20Learner-yellowgreen?style=flat" height="20"/>
+  <img src="https://img.shields.io/badge/Scalable%20Systems-orange?style=flat" height="20"/>
 </p>
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
